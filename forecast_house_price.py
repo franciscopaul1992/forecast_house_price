@@ -179,6 +179,6 @@ elif opcion == "Predicción":
 elif opcion == "Acerca de":
     st.title("Acerca de")
     st.write("Esta aplicación fue creada para predecir el precio de casas utilizando un modelo de Machine Learning.")
-    st.write("**Tecnologías utilizadas:**\n- Streamlit\n- joblib \n- XGBoost")
+    st.write("**Tecnologías utilizadas:**\n- Streamlit\n- Joblib \n- XGBoost \n- Machine Learning")
     st.write("**Desarrollado por:**\n- Carolina Gamarra\n- Britany ....\n- Paul Morales")
-    st.markdown("[Visita mi perfil de GitHub](https://github.com/oswaldosotomayor/taller_flower)")
+    st.markdown("[Visita mi perfil de GitHub](https://github.com/franciscopaul1992/forecast_house_price)")
